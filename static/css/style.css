@@ -1,0 +1,12 @@
+body {
+    font-family: 'Playfair Display', serif;
+    
+}
+#index_content {
+    margin-top: 6rem;
+
+}
+
+#index_content h2 {
+    line-height: 2;
+}
